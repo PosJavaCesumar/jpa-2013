@@ -1,0 +1,12 @@
+/.classpath
+/.clover
+/.factorypath
+/.project
+/.settings
+/.springBeans
+/.metadata
+/faces-config.NavData
+/target
+/bin
+/*.tmp
+rebel.xml
